@@ -1,2 +1,1 @@
-# sohambose.github.io
-This project is created to use for my own purposes others may contribute to make it beautiful
+#This project is created to use for my own purposes others may contribute to make it beautiful
